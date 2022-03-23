@@ -1,6 +1,5 @@
 # GDSC-Kotlin-Study
 
-## 📍 Study Book
 ### 이것이 안드로이드다 with 코틀린
 | Chapter | Title | Link |
 | :-----: | :---: | :--: |
