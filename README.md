@@ -1,6 +1,20 @@
-# Kotlin-Study
+# 🤖 Kotlin-Study
 
 ### 이것이 안드로이드다 with 코틀린
 | Chapter | Title | Link |
 | :-----: | :---: | :--: |
-| 04 | 위젯과 리소스 다루기 | <a href="https://github.com/b1urrrr/GDSC-Kotlin-Study/tree/main/Chapter_4">🔗</a> |
+| 04 | 위젯과 리소스 다루기 | <a href="https://github.com/b1urrrr/Kotlin-Study/tree/main/이것이%20안드로이드다%20with%20Kotlin/Chapter_4">🔗</a> |
+
+## 📌 Commite Message Convention
+- ➕ **[ADD]** : 문제 풀이 파일이나 부수적인 코드 추가
+- ✅ **[MOD]** : 코드 및 내부 파일 수정
+- 🗑 **[DEL]** : 쓸모없는 코드나 파일 삭제
+- ✏️ **[CORRECT]** : 문법 오류 해결, 타입 변경, 이름 변경 등의 작은 수정
+- 📄 **[DOCS]** : README 등의 문서 개정
+- 🚚 **[MOVE]** : 프로젝트 파일 및 코드 이동
+- 🪧 **[RENAME]** : 파일 이름 변경
+- 🔀 **[MERGE]** : 다른 브랜치와 Merge
+- ♻️ **[REFACTOR]** : 전면 수정
+
+## 📌 Reference Site
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=""><img src="https://img.shields.io./badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
