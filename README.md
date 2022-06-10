@@ -1,9 +1,18 @@
 # 🤖 Kotlin-Study
 
+### 3강으로 끝내는 코틀린
+| Part | Title | Link | Ref |
+| :--: | :---: | :--: | :-: |
+| 01 | 기본 문법 | <a href="https://github.com/b1urrrr/Kotlin-Study/tree/main/3강으로%20끝내는%20코틀린/Part1">🔗</a> | <a href="https://www.youtube.com/watch?v=IDVnZPjRCYg">▶</a> |
+| 02 | 고급 문법 | <a href="https://github.com/b1urrrr/Kotlin-Study/tree/main/3강으로%20끝내는%20코틀린/Part2">🔗</a> | <a href="https://www.youtube.com/watch?v=Q5noYbbc9uc">▶</a> |
+| 03 | 심리테스트 앱 만들기 | <a href="https://github.com/b1urrrr/Kotlin-Study/tree/main/3강으로%20끝내는%20코틀린/Part3">🔗</a> | <a href="https://www.youtube.com/watch?v=M1e2tLnzVPo">▶</a> |
+
 ### 이것이 안드로이드다 with 코틀린
 | Chapter | Title | Link |
 | :-----: | :---: | :--: |
 | 04 | 위젯과 리소스 다루기 | <a href="https://github.com/b1urrrr/Kotlin-Study/tree/main/이것이%20안드로이드다%20with%20Kotlin/Chapter_4">🔗</a> |
+
+<br>
 
 ## 📌 Commite Message Convention
 - ➕ **[ADD]** : 문제 풀이 파일이나 부수적인 코드 추가
@@ -15,6 +24,8 @@
 - 🪧 **[RENAME]** : 파일 이름 변경
 - 🔀 **[MERGE]** : 다른 브랜치와 Merge
 - ♻️ **[REFACTOR]** : 전면 수정
+
+<br>
 
 ## 📌 Reference Site
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=""><img src="https://img.shields.io./badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
