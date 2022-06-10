@@ -28,4 +28,4 @@
 <br>
 
 ## 📌 Reference Site
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href=""><img src="https://img.shields.io./badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://oceanic-balmoral-722.notion.site/55e09904a3264ce2a1d84f614269c592"><img src="https://img.shields.io./badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
