@@ -1,4 +1,4 @@
-# 🤖 Kotlin-Study
+# 🤖 Kotlin Study
 
 ### 3강으로 끝내는 코틀린
 | Part | Title | Link | Ref |
