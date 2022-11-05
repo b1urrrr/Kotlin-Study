@@ -12,10 +12,10 @@
 | 02 | 고급 문법 | <a href="https://github.com/b1urrrr/Kotlin-Study/tree/main/3강으로%20끝내는%20코틀린/Part2">🔗</a> | <a href="https://www.youtube.com/watch?v=Q5noYbbc9uc">▶</a> |
 | 03 | 심리테스트 앱 만들기 | <a href="https://github.com/b1urrrr/Kotlin-Study/tree/main/3강으로%20끝내는%20코틀린/Part3">🔗</a> | <a href="https://www.youtube.com/watch?v=M1e2tLnzVPo">▶</a> |
 
-### Android MVVM Kotlin Tutorial - LiveDatas + ViewModel (Android Architecture Components)
+### Android MVVM Kotlin Tutorial
 | Title | Link | Ref |
 | :---: | :--: | :-: |
-| Android MVVM Kotlin Tutorial | <a href="https://github.com/b1urrrr/Kotlin-Study/tree/main/Android%20MVVM%20Kotlin%20Tutorial/MvvmBasicsTut">🔗</a> | <a href="https://www.youtube.com/watch?v=d7UxPYxgBoA">▶</a> |
+| LiveDatas + ViewModel (Android Architecture Components) | <a href="https://github.com/b1urrrr/Kotlin-Study/tree/main/Android%20MVVM%20Kotlin%20Tutorial/MvvmBasicsTut">🔗</a> | <a href="https://www.youtube.com/watch?v=d7UxPYxgBoA">▶</a> |
 
 <br>
 
