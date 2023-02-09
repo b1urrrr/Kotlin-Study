@@ -17,6 +17,11 @@
 | :---: | :--: | :-: |
 | LiveDatas + ViewModel (Android Architecture Components) | <a href="https://github.com/b1urrrr/Kotlin-Study/tree/main/Android%20MVVM%20Kotlin%20Tutorial/MvvmBasicsTut">🔗</a> | <a href="https://www.youtube.com/watch?v=d7UxPYxgBoA">▶</a> |
 
+### 안드로이드 앱개발 부트캠프
+| Section | Title | Link | Ref |
+| :-----: | :---: | :--: | :-: |
+| 02 | Kotlin Basics | <a href="https://github.com/b1urrrr/Kotlin-Study/tree/main/안드로이드%20앱개발%20부트캠프/shoppi-kotlin-console-app">🔗</a> | <a href="https://www.udemy.com/course/learn-android-development-with-kotlin/learn/lecture/29871748#overview">▶</a> |
+
 <br>
 
 ## 📌 Commite Message Convention
