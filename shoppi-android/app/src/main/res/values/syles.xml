@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextMedium" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:textColor">@color/shoppi_black_01</item>
+    </style>
+
+    <style name="TextMedium.Purple">
+        <item name="android:textColor">@color/shoppi_purple</item>
+    </style>
+
+    <style name="TextMedium.Purple.Bold">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/shoppi_purple</item>
+    </style>
+
+    <style name="TextSubtitle1" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="android:textColor">@color/shoppi_black_01</item>
+    </style>
+
+    <style name="TextSubtitle1.White">
+        <item name="android:textColor">@color/shoppi_white</item>
+    </style>
+
+    <style name="TextSubtitle1.White.Bold">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/shoppi_white</item>
+    </style>
+
+    <style name="TextSubtitle2" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="android:textColor">@color/shoppi_black_01</item>
+    </style>
+
+    <style name="TextSubtitle2.Grey05">
+        <item name="android:textColor">@color/shoppi_grey_05</item>
+    </style>
+
+    <style name="TextSubtitle3">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/shoppi_black_01</item>
+    </style>
+
+    <style name="TextSubtitle3.Grey03">
+        <item name="android:textColor">@color/shoppi_grey_05</item>
+    </style>
+
+    <style name="TextCaption1" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:textColor">@color/shoppi_black_01</item>
+    </style>
+
+    <style name="TextCaption1.Grey03">
+        <item name="android:textColor">@color/shoppi_grey_03</item>
+    </style>
+
+    <style name="TextCaption2" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">@color/shoppi_black_01</item>
+    </style>
+</resources>

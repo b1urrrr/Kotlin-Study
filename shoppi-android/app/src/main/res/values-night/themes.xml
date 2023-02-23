@@ -1,14 +1,14 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.Shoppiandroid" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <style name="Theme.Shoppiandroid" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/purple_200</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
-        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorPrimary">@color/shoppi_purple</item>
+        <item name="colorPrimaryVariant">@color/shoppi_gradient_purple</item>
+        <item name="colorOnPrimary">@color/shoppi_black_01</item>
         <!-- Secondary brand color. -->
-        <item name="colorSecondary">@color/teal_200</item>
-        <item name="colorSecondaryVariant">@color/teal_200</item>
-        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorSecondary">@color/shoppi_pink_01</item>
+        <item name="colorSecondaryVariant">@color/shoppi_pink_02</item>
+        <item name="colorOnSecondary">@color/shoppi_black_01</item>
         <!-- Status bar color. -->
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
