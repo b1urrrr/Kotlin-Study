@@ -13,4 +13,8 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="Theme.Shoppiandroid.Splash">
+        <item name="android:windowBackground">@drawable/background_splash_screen</item>
+    </style>
 </resources>

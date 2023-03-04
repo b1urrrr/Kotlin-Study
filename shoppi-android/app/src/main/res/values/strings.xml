@@ -3,4 +3,6 @@
     <string name="description_product_thumbnail">상품 상세 대표 이미지</string>
     <string name="title_product_detail_image">상품설명</string>
     <string name="description_product_detail_image">상품 상세 이미지</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
