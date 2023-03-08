@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/navigation_category"
+        android:icon="@drawable/selector_category_icon"
+        android:title="@string/label_category_icon" />
+    <item android:id="@+id/navigation_home"
+        android:icon="@drawable/selector_home_icon"
+        android:title="@string/label_home_icon" />
+    <item android:id="@+id/navigation_cart"
+        android:icon="@drawable/selector_cart_icon"
+        android:title="@string/label_cart_icon" />
+</menu>
